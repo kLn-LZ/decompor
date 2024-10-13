@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">decompor</string>
+    <string name="etNumero">Insira um número entre 100 e 999</string>
+    <string name="btnDecompor">Decompor</string>
+</resources>
